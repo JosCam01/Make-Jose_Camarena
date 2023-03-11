@@ -1,0 +1,11 @@
+El archivo Makefile contiene los siguientes comandos:
+
+	-install: sirve para descargar e instalar eclipse.
+
+	-update: actualiza el sistema incluyendo eclipse.
+
+	-remove: desinstala eclipse y archivos residuales.
+
+	-clean: elimina el archivo comprimido.
+	
+	-delete: elimina los archivos comprimidos y descomprimidos y los datos de /src desde la instalaciion del programa.
